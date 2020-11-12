@@ -1,0 +1,231 @@
+body{
+	background: #FFFFFF;
+}
+.Page{
+	position: relative;
+	width: 1600px;
+	height: 4988px;
+}
+.LogoB1{
+	margin-top: 260px;
+	margin-left: 219px;
+	margin-right: 13px;
+}
+.eLangB1{
+	padding-bottom: 15px;
+}
+.ImgB1{
+	position: absolute;
+	width: 815px;
+	left: 785px;
+	top: 2px;
+	border:none;
+}
+.TextB1{
+position: absolute;
+width: 497px;
+height: 180px;
+left: 215px;
+top: 382.06px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 60px;
+/* or 125% */
+
+text-transform: uppercase;
+}
+.block1 {
+	height: 1024px;
+	width: 1630px;
+	left:785px;
+	top:2px;
+	display: block;
+	margin-left: auto;
+}
+.ImgB2{
+position: absolute;
+width: 600px;
+height: 556px;
+left: 215px;
+top: 1224px;
+}
+.TextB2{
+	position: absolute;
+width: 376px;
+height: 96px;
+left: 912px;
+top: 1312px;
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+text-transform: uppercase;
+}
+.LoremB2{
+	position: absolute;
+width: 369px;
+height: 152px;
+left: 912px;
+top: 1432px;
+font-family: Inter;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+}
+.ButtonB2{
+	position: absolute;
+width: 300px;
+height: 56px;
+left: 912px;
+top: 1622px;
+/* Dark 1 */
+padding-top:16px; 
+border: 1px solid #191A1F;
+box-sizing: border-box;
+border-radius: 28px;
+text-decoration: none;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+vertical-align:middle;
+color:#000000FF;
+}
+.ImgB3{
+	position: absolute;
+	width: 600px;
+	height: 556px;
+	left: 785px;
+	top: 1980px;
+}
+.TextB3{
+	position: absolute;
+width: 469px;
+height: 96px;
+left: 216px;
+top: 2088px;
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+text-transform: uppercase;
+}
+.LoremB3{
+position: absolute;
+width: 369px;
+height: 152px;
+left: 216px;
+top: 2208px;
+font-family: Inter;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+}
+.ButtonB3{
+position: absolute;
+width: 300px;
+height: 56px;
+left: 216px;
+top: 2398px;
+padding-top: 15px;
+border: 1px solid #191A1F;
+box-sizing: border-box;
+border-radius: 28px;
+text-decoration: none;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+vertical-align:middle;
+color:#000000FF;
+}
+
+
+
+
+.ImgB4{
+position: absolute;
+width: 600px;
+height: 556px;
+left: 215px;
+top: 2736px;
+}
+.TextB4{
+	position: absolute;
+width: 444px;
+height: 96px;
+left: 912px;
+top: 2824px;
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 48px;
+text-transform: uppercase;
+}
+.LoremB4{
+position: absolute;
+width: 369px;
+height: 76px;
+left: 912px;
+top: 2944px;
+font-family: Inter;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+}
+.ButtonB4{
+	position: absolute;
+	padding-top: 15px;  
+width: 300px;
+height: 56px;
+left: 912px;
+top: 3110px;
+border: 1px solid #191A1F;
+box-sizing: border-box;
+border-radius: 28px;
+text-decoration: none;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+vertical-align:middle;
+color:#000000FF;
+}
+
+
+
+.LogoNetflix{
+position: absolute;
+width: 111px;
+height: 30px;
+left: 915px;
+top: 3040px;
+
+opacity: 0.4;
+}
+
+
+.LogoYouTube{
+position: absolute;
+width: 133.2px;
+height: 30px;
+left: 1076px;
+top: 3040px;
+opacity: 0.4;
+}
