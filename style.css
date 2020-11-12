@@ -229,3 +229,65 @@ left: 1076px;
 top: 3040px;
 opacity: 0.4;
 }
+
+
+
+
+.ImgB5{
+position: absolute;
+width: 600px;
+height: 556px;
+left: 785px;
+top: 3492px;
+
+}
+.TextB5{
+	position: absolute;
+width: 444px;
+height: 96px;
+left: 216px;
+top: 3600px;
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+/* or 133% */
+text-transform: uppercase;
+}
+.LoremB5{
+position: absolute;
+width: 369px;
+height: 152px;
+left: 216px;
+top: 3720px;
+font-family: Inter;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+}
+.ButtonB5{
+position: absolute;
+width: 300px;
+height: 56px;
+left: 216px;
+top: 3910px;
+
+/* Dark 1 */
+
+border: 1px solid #191A1F;
+box-sizing: border-box;
+border-radius: 28px;
+padding-top: 15px;
+
+text-decoration: none;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+vertical-align:middle;
+color:#000000FF;
+}
